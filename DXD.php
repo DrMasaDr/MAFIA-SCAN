@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-require 'DXD MASA.php';
+require 'functions.php';
 require 'var.php';
 echo $cln;
 function update()
