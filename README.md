@@ -1,6 +1,6 @@
 
 
-#### Version 2.0.0
+#### Version 1.0.0
 #### DXD MASA
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
@@ -45,9 +45,9 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 ---
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
-- cd RED_HAWK
-- php rhawk.php
+- git clone `https://github.com/DrMasaDr/MAFIA-SCAN`
+- cd MAFIA-SCAN
+- php DXD MAFIA.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
 - Select whether The Site Runs On HTTPS or not.
 - Select the type of scan you want to perform
