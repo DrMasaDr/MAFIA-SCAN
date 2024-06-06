@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://imgur.com/a/r068xWT" width="600px">
-</p>
+
 
 #### Version 2.0.0
 #### DXD MASA
@@ -55,17 +53,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 - Select the type of scan you want to perform
 - Leave the rest to the scanner
 
-# List of CMS Supported
-RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Content Management Systems) in case the website is using some other CMS, Detector will return _could not detect_.
 
-- WordPress
-- Joomla
-- Drupal
-- Magento
-
-# Video Demonstration
-<a href="https://www.youtube.com/watch?v=Jt9kBFiJDrE" target="_blank"><img src="https://imgur.com/a/r068xWT" 
-alt="Video Thumbnail" border="10" /></a>
 
 .
 ## CONTACT ME ON
